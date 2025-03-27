@@ -28,7 +28,13 @@ int main(){
     int goodbye; //(4 bytes) 
     unsigned int goodbye2 = 3983838383992; //(4 bytes)
 
+
+    long long int realBig; //(8 bytes)
+
+
     printf("%d", goodbye2);
+
+    const float PI = 3.14159;
 
     return 0;
 }
