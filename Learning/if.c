@@ -43,5 +43,6 @@ int main(){
         default:
             printf("Not a real grade");
             break;
+    }
     return 0;
 }
